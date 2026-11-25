@@ -30,7 +30,7 @@ If a value has a comma in it, put it in quotes.
 
 ## Photos
 
-For products checked in store, put photos in `data/photos` named by barcode, e.g. `8850000000003_front.jpg`, `8850000000003_label.jpg`, `8850000000003_price.jpg`.
+For products checked in store, put photos in `data/photos` named by barcode, e.g. `8850000000003_front.jpg`, `8850000000003_label.jpg`, `8850000000003_barcode.jpg`, `8850000000003_price.jpg`.
 
 ## Checking
 
